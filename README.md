@@ -1,4 +1,8 @@
-# Running Instructions
+# About
+
+This is a movie recommender system that uses Cosine Similarity algorithm to predict the potential movie ratings of the unwatched movies.
+
+## Running Instructions
 
 - Open the colab environment (https://colab.research.google.com/)
 - Upload the code file(final_project.ipynb) and dataset.txt to google drive any folder you would like to
